@@ -1,0 +1,3 @@
+seznam věcí které umím:
+HTML
+CSS
